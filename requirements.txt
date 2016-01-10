@@ -1,0 +1,43 @@
+# Wagtail ready
+Django==1.9
+psycopg2==2.6.1
+elasticsearch==1.2.0
+django-redis==4.3.0
+wagtail==1.3.1
+django-libsass==0.6
+libsass==0.8.3
+Pillow==2.9.0
+
+# Production dependencies
+dj-database-url==0.3.0
+whitenoise==2.0.4
+uwsgi==2.0.11.2
+ConcurrentLogHandler==0.9.1
+
+# WSGI Handler
+gevent==1.0.2
+gunicorn==19.4.1
+
+
+# Configuration
+django-environ==0.4.0
+django-secure==1.0.1
+
+# Time zones support
+pytz==2015.7
+
+# Redis support
+redis==2.10.5
+django-redis-cache==1.6.4
+
+# Static and Media Storage
+# ------------------------------------------------
+boto==2.38.0
+django-storages-redux==1.3
+
+# Mailgun Support
+# ---------------
+django-mailgun==0.8.0
+
+# Compressor dependencies
+django-compressor>=1.4
