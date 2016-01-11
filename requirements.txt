@@ -1,7 +1,7 @@
 # Wagtail ready
 Django==1.9
 psycopg2==2.6.1
-elasticsearch>=2.0.0,<3.0.0
+elasticsearch>=1.0.0,<2.0.0
 django-redis==4.3.0
 wagtail==1.3.1
 django-libsass==0.6
