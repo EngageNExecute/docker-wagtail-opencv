@@ -41,3 +41,6 @@ django-mailgun==0.8.0
 
 # Compressor dependencies
 django-compressor>=1.4
+
+# Django database backup
+-e git+https://github.com/mjs7231/django-dbbackup.git#egg=django-dbbackup
