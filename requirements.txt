@@ -44,3 +44,11 @@ django-compressor>=1.4
 
 # Django database backup
 -e git+https://github.com/mjs7231/django-dbbackup.git#egg=django-dbbackup
+
+# Html min
+django-sendfile==0.3.10
+importlib==1.0.3
+django-htmlmin==0.9.0
+
+# Fix Django Medusa
+-e git+https://github.com/afonts/django-medusa.git
