@@ -51,4 +51,4 @@ importlib==1.0.3
 django-htmlmin==0.9.0
 
 # Fix Django Medusa
--e git+https://github.com/afonts/django-medusa.git
+-e git+https://github.com/afonts/django-medusa.git#egg=django-medusa
