@@ -1,5 +1,5 @@
 # Wagtail ready
-Django==1.9.6
+Django==1.9
 psycopg2==2.6.1
 elasticsearch>=1.0.0,<2.0.0
 django-redis==4.3.0
